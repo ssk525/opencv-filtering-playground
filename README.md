@@ -144,6 +144,7 @@ opencv-filtering-playground/
 | [python-image-basics](https://github.com/ssk525/python-image-basics) | Loading & color |
 | [opencv-image-transformations](https://github.com/ssk525/opencv-image-transformations) | Geometry |
 | **opencv-filtering-playground** (this) | Filters |
+| [opencv-edge-detection](https://github.com/ssk525/opencv-edge-detection) | Edge detection |
 
 ---
 
