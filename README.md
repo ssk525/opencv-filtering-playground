@@ -1,6 +1,6 @@
 # OpenCV Filtering Playground
 
-OpenCV utilities for **box blur**, **Gaussian**, **median**, **bilateral**, and **sharpening** — PBOS Sprint 1, Day 4.
+OpenCV utilities for **box blur**, **Gaussian**, **median**, **bilateral**, and **sharpening**.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](requirements.txt)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
@@ -16,7 +16,7 @@ Compare five OpenCV filters side-by-side on noisy images — blur, denoise, edge
 
 ## Problem
 
-After loading (Day 2) and transforming (Day 3) images, the next step is **noise reduction and enhancement**:
+After loading and transforming images, the next step is **noise reduction and enhancement**:
 
 1. Box blur — fast averaging  
 2. Gaussian blur — weighted smoothing  
@@ -137,14 +137,13 @@ opencv-filtering-playground/
 
 ---
 
-## Related (PBOS Sprint 1)
+## Related Projects
 
-| Day | Repo | Topic |
-|:----|:-----|:------|
-| 2 | [python-image-basics](https://github.com/ssk525/python-image-basics) | Loading & color |
-| 3 | [opencv-image-transformations](https://github.com/ssk525/opencv-image-transformations) | Geometry |
-| 4 | **opencv-filtering-playground** (this) | Filters |
-| 5 | opencv-edge-detection | Canny, Sobel |
+| Repo | Topic |
+|:-----|:------|
+| [python-image-basics](https://github.com/ssk525/python-image-basics) | Loading & color |
+| [opencv-image-transformations](https://github.com/ssk525/opencv-image-transformations) | Geometry |
+| **opencv-filtering-playground** (this) | Filters |
 
 ---
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""CLI entry point for opencv-filtering-playground (PBOS Day 4)."""
+"""CLI entry point for opencv-filtering-playground."""
 
 from __future__ import annotations
 
